@@ -18,3 +18,8 @@ DFT is a crucial mathematical tool in signal processing and scientific applicati
 
 3 - The Fast Fourier Transform (FFT) is a method that speeds up the computation of the DFT values by removing redundant spectral components computation .
 The Fast Fourier Transform (FFT) is a pivotal algorithm in signal processing, efficiently computing the Discrete Fourier Transform (DFT). Developed by Cooley and Tukey. The FFT drastically reduces computational complexity to O(N log⁡〖N)〗 from O(N^2). It employs a divide-and-conquer strategy, exploiting symmetries in complex exponentials. The FFT's speed and scalability make it integral in real-time applications, telecommunications, audio signal processing, and scientific simulations. Its broad applicability and impact on computational efficiency highlight its significance in diverse scientific and engineering domains. 
+
+4 - Cross-correlation is a method to calculate the similarity between the input sig-nal and the reference signal.
+Cross-correlation is a fundamental statistical method widely used in signal pro-cessing, statistics, and various scientific disciplines.
+It assesses the similarity between two signals by measuring their convolution.
+In essence, cross-correlation quantifies the degree to which a signal resembles a shifted (or lagged) version of another.

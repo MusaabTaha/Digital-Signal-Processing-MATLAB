@@ -1,6 +1,6 @@
 Those DSP algorithms were developed by Musaab Taha as a research project : Investigation of AC Analysis for Low Power Embedded Impedance Spectroscopy System based on STM32 at the Chair of Measurement and Sensor Technology
 as part of his ongoing Masters studies at TU Chemnitz, Germany. 
-Musaab Taha analyzed the theoritical background of each algorithm, developed each algorithm MATLAB code as separate script and evaluated the results of those DSP methods in terms of accuarcy and processing time.
+Musaab Taha analyzed the theoritical background of each algorithm, developed each algorithm MATLAB code as separate script file and evaluated the results of those DSP methods in terms of accuarcy and processing time.
 The goal of this project is to investigate, study, develop, evaluate and select the most appropriate DSP method for Embedded Bio-Impedance Spectroscopy
 
 

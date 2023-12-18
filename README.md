@@ -10,5 +10,9 @@ making it suitable for real-time applications with limited computational resourc
 it offers a streamlined solution for targeted frequency analysis. The algorithm's simplicity and efficiency make it a valuable choice for scenarios where real-time 
 processing and resource optimization are crucial. 
 
-2 - The Fast Fourier Transform (FFT) is a method that speeds up the computation of the DFT values by removing redundant spectral components computation .
+2 - The Discrete Fourier Transform (DFT) is a mathematical method used to convert signals from the time domain to the frequency domain.
+DFT is a crucial mathematical tool in signal processing and scientific applications. It converts finite sequences of data points from the time or spatial domain to the fre-quency domain, allowing the analysis of frequency components. Computed through a mathematical formula, the DFT involves complex exponential functions and is often optimized using the Fast Fourier Transform (FFT) algorithm for efficiency. Applica-tions include audio signal processing, image analysis, and telecommunications. Despite its power, the DFT has limitations, such as assuming periodicity and potential spectral leakage. In summary, the DFT's efficiency, particularly with FFT, makes it indispensable for analyzing and manipulating signals in diverse fields.
+
+
+3 - The Fast Fourier Transform (FFT) is a method that speeds up the computation of the DFT values by removing redundant spectral components computation .
 The Fast Fourier Transform (FFT) is a pivotal algorithm in signal processing, efficiently computing the Discrete Fourier Transform (DFT). Developed by Cooley and Tukey. The FFT drastically reduces computational complexity to O(N log⁡〖N)〗 from O(N^2). It employs a divide-and-conquer strategy, exploiting symmetries in complex exponentials. The FFT's speed and scalability make it integral in real-time applications, telecommunications, audio signal processing, and scientific simulations. Its broad applicability and impact on computational efficiency highlight its significance in diverse scientific and engineering domains. 
